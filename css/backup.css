@@ -224,6 +224,13 @@ a {
     transform: translateY(80px);
 }
 
+@font-face{
+    font-family: 'Cairo', sans-serif;
+    src: url() format('');
+    font-display: swap;
+}
+
+
 
     /* Mobile */
 @media (min-width:480px) and (max-width: 768px) {
