@@ -161,24 +161,24 @@ a{
 }
 
 .img-1 {
-    grid-row: span 2;
+    grid-row: span 2; /*
     transition-property: all;
-    transition-duration: 2s;
+    transition-duration: 2s; */
 }
 .img-2 {
-    grid-column: span 1;
+    grid-column: span 1; /*
     transition-property: all;
-    transition-duration: 2s;
+    transition-duration: 2s; */
 }
 .img-3{
-    grid-column: span 1;
+    grid-column: span 1; /*
     transition-property: all;
-    transition-duration: 2s;
+    transition-duration: 2s; */
 }
-.img-4 {
-    grid-column: span 2;
+.img-4{
+    grid-column: span 2; /*
     transition-property: all;
-    transition-duration: 2s;
+    transition-duration: 2s; */
     display: grid;
     justify-content: center;
     align-items: center;
